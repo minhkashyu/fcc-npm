@@ -4,6 +4,7 @@
 	"description": "A Free Code Camp project that teaches the basics of using npm",
 	"keywords": [ "freecodecamp", "npm", "json" ],
 	"license": "MIT",
+	"version": "1.1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
