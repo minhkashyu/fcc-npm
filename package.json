@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Minh Ta",
 	"description": "A Free Code Camp project that teaches the basics of using npm",
+	"keywords": [ "freecodecamp", "npm", "json" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
